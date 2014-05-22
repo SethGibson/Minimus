@@ -1,0 +1,6 @@
+*.log
+*.sdf
+*.suo
+*.filters
+Debug
+*.opensdf
